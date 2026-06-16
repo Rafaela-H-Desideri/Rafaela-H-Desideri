@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**Rafaela-H-Desideri/Rafaela-H-Desideri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Rafaela Helena Desideri
 
-Here are some ideas to get you started:
+💼 Analista de Dados  
+📍 Porto Alegre - RS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 Sobre mim
+
+Analista de Dados com experiência em **Power BI e MySQL**, com foco em transformar dados em informações estratégicas para tomada de decisão.
+
+Pós-Graduada em **Business Intelligence** e certificada pelo **Google em Data Analytics**.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- 📊 Power BI  
+- 🗄️ MySQL  
+- 🧾 SQL  
+- 📈 Excel  
+- 📉 DAX  
+- 🧩 Modelagem de Dados 
+- 🐍 Python (básico)
+
+---
+
+## 🌐 Conecte-se comigo
+
+💼 LinkedIn:  
+👉 https://www.linkedin.com/in/rafaela-desideri/
