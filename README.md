@@ -9,7 +9,9 @@
 
 ## 👩‍💻 Sobre mim
 
-Analista de Dados com experiência em **Power BI e MySQL**, com foco em transformar dados em informações estratégicas para tomada de decisão.
+Analista de Dados com experiência em **Power BI e MySQL**. 
+
+Atuação orientada à transformação de dados em insights estratégicos que impulsionam a tomada de decisão.
 
 Pós-Graduada em **Business Intelligence** e certificada pelo **Google em Data Analytics**.
 
